@@ -1,0 +1,9 @@
+
+-se agrego un archivo de texto llamado info.txt y se pusieron datos principales
+-se agrego un contador
+-se fuciono el contador y el gro main
+-se cambio en la rama main el contador y se puso al inverso del 5 al 1
+-Se ha puesto la version v1.0
+
+
+
